@@ -14,4 +14,4 @@ If you want to use this, give credit if you aren't going to fork this, by forkin
 - Rust (Latest version)
 - Cargo (probably included with rust)
 
-To install dependencies you only need to do ´cargo run´ or ´cargo watch -x run´ (for executing when save)
+To install dependencies you only need to do `cargo run` or `cargo watch -x run` (for executing when save)
