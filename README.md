@@ -2,7 +2,7 @@
 This is my own personal web app using rocket.rs in rust
 
 It uses:
-- Routing
+- Routing from rocket
 - Handlebars
 - Rust (Obviously)
 
