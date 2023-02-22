@@ -1,8 +1,8 @@
 #[macro_use] extern crate rocket;
 use rocket_dyn_templates::{Template, context};
 
-const HOSTNAME: &'static str = "localhost:8000";
-const PROTOCOL: &'static str = "http://";
+const HOSTNAME: &'static str = "slaim-rocket.onrender.com";
+const PROTOCOL: &'static str = "https://";
 
 #[get("/")]
 fn index() -> Template {
